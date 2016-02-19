@@ -23,7 +23,7 @@ public class Solution {
             return false;
         }
         
-        //Method 1:
+        //Method 1: There are 128 ASCII CODE
         int[] array1=new int[128];
         int[] array2=new int[128];
         for(int i=0;i<s.length();i++){
